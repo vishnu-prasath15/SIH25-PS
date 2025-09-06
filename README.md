@@ -44,7 +44,7 @@ Make sure to take notes for each and every problem, and then select the top 3 ba
 | 21  | Ministry of Ayush                                 | Develop a blockchain-based system for botanical traceability of Ayurvedic herbs                                                                                            | SIH25027  | Blockchain & Cybersecurity        |          |                  |
 | 22  | Government of Jharkhand                           | Smart Classroom & Timetable Scheduler                                                                                                                                      | SIH25028  | Smart Education                   |          |                  |
 | 23  | Government of Jharkhand                           | Authenticity Validator for Academia                                                                                                                                         | SIH25029  | Smart Education                   |          |                  |
-| 24  | Government of Jharkhand                           | AI-Based Crop Recommendation for Farmers                                                                                                                                    | SIH25030  | Agriculture, FoodTech & Rural Dev |          |                  |
+| 24  | Government of Jharkhand                           | AI-Based Crop Recommendation for Farmers                                                                                                                                    | SIH25030  | Agriculture, FoodTech & Rural Dev |       ✅   |         https://www.perplexity.ai/search/i-have-a-problem-statement-fro-q0X5MLFPSmCtBcWAm0BXMw         |
 
 ---
 
